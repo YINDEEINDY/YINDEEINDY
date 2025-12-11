@@ -64,7 +64,7 @@ const developer: Developer = {
 ## Top Languages
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YINDEEINDY&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YINDEEINDY&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
 </div>
 
 ---
@@ -72,7 +72,7 @@ const developer: Developer = {
 ## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YINDEEINDY&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YINDEEINDY&theme=onestar&no-frame=true&column=4&margin-w=15"/>
 </div>
 
 ---
