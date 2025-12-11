@@ -35,22 +35,21 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> About Me
 
-```javascript
-const yindee = {
-    pronouns: "he" | "him",
-    location: "Laem Chabang, Thailand 🇹🇭",
-    role: "Full-Stack Developer",
-    status: "Open for Opportunities",
+```typescript
+const developer: Developer = {
+  name: "Yindee Sajarern",
+  role: "Full-Stack Developer",
+  location: "Laem Chabang, Thailand 🇹🇭",
 
-    expertise: {
-        frontend: ["React", "TypeScript", "Tailwind CSS", "Blazor"],
-        backend: ["Node.js", "C#/.NET", "Python", "PHP"],
-        database: ["MongoDB", "SQL Server", "MySQL"],
-        ai: ["OpenAI API", "Prompt Engineering", "AI Integration"]
-    },
+  skills: {
+    frontend: ["React", "TypeScript", "Tailwind CSS", "Blazor"],
+    backend: ["Node.js", "C#/.NET", "Python", "PHP"],
+    database: ["MongoDB", "SQL Server", "MySQL"],
+    ai: ["OpenAI API", "Prompt Engineering", "AI Integration"],
+  },
 
-    passion: ["Clean Code", "Problem Solving", "Continuous Learning"],
-    motto: "Build. Learn. Repeat. 🚀"
+  currentFocus: "AI Integration & Cloud Architecture",
+  openToWork: true,
 };
 ```
 
