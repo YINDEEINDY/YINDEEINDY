@@ -69,10 +69,10 @@ const developer: Developer = {
 
 ---
 
-## Trophies
+## Activity Graph
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YINDEEINDY&theme=onestar&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YINDEEINDY&bg_color=0d1117&color=00d4ff&line=a855f7&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 ---
