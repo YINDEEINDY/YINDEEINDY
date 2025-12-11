@@ -61,12 +61,18 @@ const developer: Developer = {
 
 ---
 
-## Featured Project
+## Top Languages
 
 <div align="center">
-<a href="https://github.com/YINDEEINDY/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YINDEEINDY&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YINDEEINDY&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15"/>
 </div>
 
 ---
