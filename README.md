@@ -95,7 +95,10 @@ const developer: Developer = {
 
 <div align="center">
 
-[![Spotify](https://novatorem-yindeeindy.vercel.app/api/spotify)](https://open.spotify.com/user/YINDEEINDY)
+<!-- Setup: Visit https://spotify-github-profile.kittinanx.com/ and replace the URL below -->
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YINDEEINDY&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YINDEEINDY&cover_image=true&theme=novatorem&bar_color=00d4ff&bar_color_cover=true" alt="Spotify Now Playing"/>
+</a>
 
 </div>
 
