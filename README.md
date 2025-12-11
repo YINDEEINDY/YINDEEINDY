@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yindee%20Sajarern&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descSize=18"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Applications;AI+Integration+Specialist;3%2B+Years+of+Coding+Experience;Turning+Ideas+into+Reality;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Applications;AI+Integration+Specialist;Passionate+Problem+Solver;Turning+Ideas+into+Reality;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 
 <!-- Social Badges -->
 <br/>
@@ -40,27 +40,27 @@ const yindee = {
     pronouns: "he" | "him",
     location: "Laem Chabang, Thailand 🇹🇭",
     role: "Full-Stack Developer",
-    company: "Open for Opportunities",
+    status: "Open for Opportunities",
 
-    skills: {
+    expertise: {
         frontend: ["React", "TypeScript", "Tailwind CSS", "Blazor"],
         backend: ["Node.js", "C#/.NET", "Python", "PHP"],
         database: ["MongoDB", "SQL Server", "MySQL"],
         ai: ["OpenAI API", "Prompt Engineering", "AI Integration"]
     },
 
-    currentlyLearning: ["Advanced AI/ML", "Cloud Architecture", "System Design"],
-    funFact: "I turn coffee into code ☕→💻"
+    passion: ["Clean Code", "Problem Solving", "Continuous Learning"],
+    motto: "Build. Learn. Repeat. 🚀"
 };
 ```
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="80"/>
 
-- 🔭 Currently building **AI-powered applications**
-- 🌱 Exploring **Cloud & DevOps**
-- 💬 Ask me about **React, Node.js, .NET, AI Tools**
-- ⚡ Fun fact: **I turn coffee into code ☕→💻**
-- 🎯 Goal: **Contributing to innovative tech solutions**
+- 🔭 Currently building **AI-powered web applications**
+- 🌱 Exploring **Cloud Architecture & DevOps**
+- 💡 Specialized in **AI Integration & Prompt Engineering**
+- 💬 Ask me about **React, Node.js, .NET, Python**
+- 🎯 Focused on **Delivering high-quality solutions**
 
 ---
 
