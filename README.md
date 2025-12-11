@@ -1,71 +1,114 @@
 <div align="center">
 
-# Hi there, I'm Yindee Sajarern 👋
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yindee%20Sajarern&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descSize=18"/>
 
-### Full-Stack Developer | AI Enthusiast | Problem Solver
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Applications;AI+Integration+Specialist;3%2B+Years+of+Coding+Experience;Turning+Ideas+into+Reality;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-yindees-projects.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yindee-sajarern-643298386/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yindeehair@gmail.com)
+<!-- Social Badges -->
+<br/>
+<a href="https://portfolio-yindees-projects.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/yindee-sajarern-643298386/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:yindeehair@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YINDEEINDY">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=YINDEEINDY&style=for-the-badge&color=blueviolet"/>
+<a href="https://github.com/YINDEEINDY?tab=followers">
+  <img src="https://img.shields.io/github/followers/YINDEEINDY?style=for-the-badge&color=blue"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> About Me
 
-```typescript
+```javascript
 const yindee = {
-  location: "Laem Chabang, Thailand 🇹🇭",
-  role: "Full-Stack Developer & AI Enthusiast",
-  experience: "3+ years",
-  currentFocus: ["AI Integration", "Web Development", "Prompt Engineering"],
-  funFact: "I turn coffee into code ☕ → 💻"
+    pronouns: "he" | "him",
+    location: "Laem Chabang, Thailand 🇹🇭",
+    role: "Full-Stack Developer",
+    company: "Open for Opportunities",
+
+    skills: {
+        frontend: ["React", "TypeScript", "Tailwind CSS", "Blazor"],
+        backend: ["Node.js", "C#/.NET", "Python", "PHP"],
+        database: ["MongoDB", "SQL Server", "MySQL"],
+        ai: ["OpenAI API", "Prompt Engineering", "AI Integration"]
+    },
+
+    currentlyLearning: ["Advanced AI/ML", "Cloud Architecture", "System Design"],
+    funFact: "I turn coffee into code ☕→💻"
 };
 ```
 
-- 🔭 Currently working on **AI-powered web applications**
-- 🌱 Learning **Advanced AI/ML integration & Cloud Architecture**
-- 💬 Ask me about **React, Node.js, .NET, Python, AI Tools**
-- ⚡ Passionate about **building innovative solutions with AI**
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="80"/>
+
+- 🔭 Currently building **AI-powered applications**
+- 🌱 Exploring **Cloud & DevOps**
+- 💬 Ask me about **React, Node.js, .NET, AI Tools**
+- ⚡ Fun fact: **I turn coffee into code ☕→💻**
+- 🎯 Goal: **Contributing to innovative tech solutions**
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite&theme=dark" />
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,python,php&theme=dark" />
+</p>
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,azure,vercel&theme=dark" />
+</p>
 
-### AI & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" />
+</p>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Activity
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YINDEEINDY&custom_title=Yindee's%20Contribution%20Graph&bg_color=0d1117&color=00d4ff&line=a855f7&point=ffffff&area_color=0d1117&title_color=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=ffffff"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YINDEEINDY&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=ffffff"/>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> Contribution Snake
 
 <div align="center">
   <picture>
@@ -77,36 +120,73 @@ const yindee = {
 
 ---
 
-## 📌 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="30" /> Featured Projects
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/YINDEEINDY/portfolio)
+<a href="https://github.com/YINDEEINDY/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7"/>
+</a>
+
+</div>
+
+<div align="center">
+
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|------------|---------------|---------|
+| [Portfolio](https://portfolio-yindees-projects.vercel.app) | Professional portfolio with animations | React, Tailwind, Framer Motion |
+| AI Content Platform | Automated content generation | React, Node.js, OpenAI |
+| Enterprise System | Business management solution | .NET, Blazor, SQL Server |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 42 mins   ███████████░░░░░░░   45.2%
+React        5 hrs 30 mins   ███████░░░░░░░░░░░   28.6%
+Python       2 hrs 15 mins   ███░░░░░░░░░░░░░░░   11.7%
+CSS          1 hr 45 mins    ██░░░░░░░░░░░░░░░░    9.1%
+Other        1 hr 3 mins     █░░░░░░░░░░░░░░░░░    5.4%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect!
 
 <div align="center">
 
-💼 **Open for freelance projects and collaborations!**
+### 💼 Open for Freelance Projects & Full-time Opportunities!
 
-📫 Reach me at **yindeehair@gmail.com**
+<br/>
 
-🌐 Check out my **[Portfolio](https://portfolio-yindees-projects.vercel.app)**
+<a href="https://portfolio-yindees-projects.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00D4FF?style=for-the-badge"/>
+</a>
+<a href="mailto:yindeehair@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Send_Me_an_Email-EA4335?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/yindee-sajarern-643298386/">
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YINDEEINDY&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</div>
 
-<div align="center">
+### 💭 Random Dev Quote
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+
+---
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
