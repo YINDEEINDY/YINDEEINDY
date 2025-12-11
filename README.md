@@ -91,6 +91,36 @@ const developer: Developer = {
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="30" /> Spotify Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-yindeeindy.vercel.app/api/spotify)](https://open.spotify.com/user/YINDEEINDY)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" /> Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```txt
+TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░  55.2%
+Python       5 hrs 15 mins   █████░░░░░░░░░░░░░░░░  23.1%
+CSS          2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░  12.1%
+JavaScript   1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░   5.9%
+JSON         50 mins         █░░░░░░░░░░░░░░░░░░░░   3.7%
+```
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YINDEEINDY&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&layout=compact"/>
+
+</div>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Activity
 
 <div align="center">
