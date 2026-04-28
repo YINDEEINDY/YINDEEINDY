@@ -93,14 +93,6 @@ TypeScript, React, Next.js, and Tailwind for the web. Node and .NET on the serve
 
 <br/>
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YINDEEINDY&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</div>
-
-<br/>
-
 ### 📊 Activity
 
 <picture>
@@ -123,7 +115,7 @@ TypeScript, React, Next.js, and Tailwind for the web. Node and .NET on the serve
 ### 🧊 3D Contribution Skyline
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" />
+  <img src="https://raw.githubusercontent.com/YINDEEINDY/YINDEEINDY/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline" />
 </div>
 
 <br/>
