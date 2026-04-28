@@ -27,13 +27,6 @@ Right now I'm building [**FixFlow**](https://github.com/YINDEEINDY/fixflow) — 
 
 TypeScript, React, Next.js, and Tailwind for the web. Node and .NET on the server. Python when AI is involved. Vercel for ship-it-today, Azure when it has to scale.
 
-#### Currently
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&hide_title=true&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000&card_width=420" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&hide_title=true&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=0969da&icon_color=0969da&text_color=57606a&bg_color=ffffff00&card_width=420" />
-</picture>
-
 #### Find me
 
 [Portfolio](https://portfolio-yindees-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yindee-sajarern-643298386/) · [yindeehair@gmail.com](mailto:yindeehair@gmail.com)
