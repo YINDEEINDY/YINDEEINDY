@@ -1,66 +1,41 @@
-<h1>Yindee Sajarern</h1>
+### Hi, I'm Yindee 👋
 
-<p>
-  Full-Stack Developer · Laem Chabang, Thailand<br/>
-  Building modern web applications and integrating AI into production.
-</p>
+I'm a full-stack developer based in Laem Chabang, Thailand. Most of my work lives at the intersection of **TypeScript**, **.NET**, and the messy reality of shipping AI features into production.
 
-<p>
-  <a href="https://portfolio-yindees-projects.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/yindee-sajarern-643298386/">LinkedIn</a> ·
-  <a href="mailto:yindeehair@gmail.com">Email</a>
-</p>
+Right now I'm building [**FixFlow**](https://github.com/YINDEEINDY/fixflow) — a maintenance-request system for schools — and **KruAI**, a content-generation platform for Thai vocational instructors. Both started as "this should exist" and turned into things real people use.
 
----
+#### What I'm into
 
-### Featured Projects
+- Designing AI features that **fail gracefully** when models hallucinate
+- Treating **.NET and TypeScript as one stack**, not two ecosystems
+- Editorial, typography-driven UI over dashboard-by-numbers layouts
+- Small, sharp tools over generic frameworks
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/YINDEEINDY/fixflow">FixFlow</a></h4>
-      <p>Maintenance request management system for educational institutions. Built with React, TypeScript, and a Node backend.</p>
-      <sub>TypeScript · React · Node.js · <a href="https://fixflow-alpha.vercel.app">Live</a></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/YINDEEINDY/KodLaewLong">KodLaewLong</a></h4>
-      <p>Web application focused on a clean, fast user experience. Deployed on Vercel.</p>
-      <sub>TypeScript · React · <a href="https://kodlaewlong.vercel.app">Live</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/YINDEEINDY/Seoul-Stay">Seoul-Stay</a></h4>
-      <p>Stay-booking platform built with C# and .NET. Demonstrates clean layered architecture and data modeling.</p>
-      <sub>C# · .NET</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/YINDEEINDY/chatbot-builder">Chatbot Builder</a></h4>
-      <p>No-code interface for composing AI chatbots. Vercel-hosted TypeScript app.</p>
-      <sub>TypeScript · AI · <a href="https://chatbot-builder-nine-sable.vercel.app">Live</a></sub>
-    </td>
-  </tr>
-</table>
+#### Selected work
 
----
+[**FixFlow**](https://github.com/YINDEEINDY/fixflow) — Maintenance requests for educational institutions. Reduces "where's my work order?" emails to zero. React · TypeScript · Node · [live](https://fixflow-alpha.vercel.app)
 
-### Tech Stack
+[**Chatbot Builder**](https://github.com/YINDEEINDY/chatbot-builder) — No-code interface for composing AI chatbots. Where I figured out how to keep prompts version-controlled. TypeScript · [live](https://chatbot-builder-nine-sable.vercel.app)
 
-**Languages**&nbsp;&nbsp;TypeScript · Python · C# · JavaScript  
-**Frontend**&nbsp;&nbsp;&nbsp;React · Next.js · Tailwind CSS · Vite  
-**Backend**&nbsp;&nbsp;&nbsp;&nbsp;Node.js · .NET · Express  
-**Data**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MongoDB · PostgreSQL  
-**DevOps**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker · Azure · Git
+[**Seoul-Stay**](https://github.com/YINDEEINDY/Seoul-Stay) — Stay-booking platform in C# / .NET. Where I started liking layered architecture instead of fearing it. C# · .NET
 
----
+[**Thai Stock Dashboard**](https://github.com/YINDEEINDY/thai-stock-dashboard) — Real-time Thai market data, because the existing dashboards either lag or look like 2008. Vite · React · Express
 
-### GitHub
+[**Prompt Hub**](https://github.com/YINDEEINDY/prompt-hub) — A place I dump prompts that actually worked. TypeScript · [live](https://prompt-hub-weld-tau.vercel.app)
 
-<a href="https://github.com/YINDEEINDY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&card_width=480" />
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff&card_width=480" />
-  </picture>
-</a>
+#### Stack I reach for
 
-<sub>Currently focused on AI integration and cloud architecture · Open to opportunities</sub>
+TypeScript, React, Next.js, and Tailwind for the web. Node and .NET on the server. Python when AI is involved. Vercel for ship-it-today, Azure when it has to scale.
+
+#### Currently
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&hide_title=true&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=00000000&card_width=420" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&hide_title=true&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=0969da&icon_color=0969da&text_color=57606a&bg_color=ffffff00&card_width=420" />
+</picture>
+
+#### Find me
+
+[Portfolio](https://portfolio-yindees-projects.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yindee-sajarern-643298386/) · [yindeehair@gmail.com](mailto:yindeehair@gmail.com)
+
+<sub>Open to interesting work. Let's talk.</sub>
