@@ -33,15 +33,15 @@ Right now I'm building [**FixFlow**](https://github.com/YINDEEINDY/fixflow) — 
 
 ### Selected Work
 
-<a href="https://github.com/YINDEEINDY/fixflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=fixflow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="48%" />
+<a href="https://github.com/YINDEEINDY/yin-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=yin-chat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="48%" />
 </a>
-<a href="https://github.com/YINDEEINDY/chatbot-builder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=chatbot-builder&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="48%" />
+<a href="https://github.com/YINDEEINDY/yin-stack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=yin-stack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="48%" />
 </a>
 
-<a href="https://github.com/YINDEEINDY/Seoul-Stay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=Seoul-Stay&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="48%" />
+<a href="https://github.com/YINDEEINDY/fixflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=fixflow&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="48%" />
 </a>
 <a href="https://github.com/YINDEEINDY/thai-stock-dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YINDEEINDY&repo=thai-stock-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="48%" />
@@ -49,13 +49,13 @@ Right now I'm building [**FixFlow**](https://github.com/YINDEEINDY/fixflow) — 
 
 <table>
   <tr>
+    <td><b>yin-chat</b> — Multi-provider AI chat on Next.js 15 + AI SDK with streaming, tools, auth, persistent threads</td>
+  </tr>
+  <tr>
+    <td><b>yin-stack</b> — My Next.js 16 starter — TS, Tailwind 4, Drizzle, Sentry, Storybook, Playwright wired up</td>
+  </tr>
+  <tr>
     <td><b>FixFlow</b> — Reduces "where's my work order?" emails to zero · <a href="https://fixflow-alpha.vercel.app">live</a></td>
-  </tr>
-  <tr>
-    <td><b>Chatbot Builder</b> — Where I figured out version-controlled prompts · <a href="https://chatbot-builder-nine-sable.vercel.app">live</a></td>
-  </tr>
-  <tr>
-    <td><b>Seoul-Stay</b> — Where I started liking layered architecture instead of fearing it</td>
   </tr>
   <tr>
     <td><b>Thai Stock Dashboard</b> — Because the existing dashboards either lag or look like 2008</td>
