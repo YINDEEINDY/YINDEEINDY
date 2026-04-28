@@ -1,89 +1,66 @@
-<div align="center">
+<h1>Yindee Sajarern</h1>
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yindee%20Sajarern&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descSize=18"/>
+<p>
+  Full-Stack Developer · Laem Chabang, Thailand<br/>
+  Building modern web applications and integrating AI into production.
+</p>
 
-<!-- Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Apps;AI+Integration+Specialist;Always+Learning+New+Tech" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Quick Links -->
-<a href="https://portfolio-yindees-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yindee-sajarern-643298386/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yindeehair@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YINDEEINDY&style=flat-square&color=blueviolet"/>
-
-</div>
+<p>
+  <a href="https://portfolio-yindees-projects.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/yindee-sajarern-643298386/">LinkedIn</a> ·
+  <a href="mailto:yindeehair@gmail.com">Email</a>
+</p>
 
 ---
 
-## About Me
+### Featured Projects
 
-```typescript
-const developer: Developer = {
-  name: "Yindee Sajarern",
-  role: "Full-Stack Developer",
-  location: "Laem Chabang, Thailand",
-  skills: ["React", "TypeScript", "Node.js", ".NET", "Python"],
-  currentFocus: "AI Integration & Cloud Architecture",
-  openToWork: true,
-};
-```
-
----
-
-## Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,dotnet,python,tailwind,mongodb,docker,azure,git&theme=dark" />
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YINDEEINDY&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a855f7"/>
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YINDEEINDY/YINDEEINDY/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YINDEEINDY/YINDEEINDY/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YINDEEINDY/YINDEEINDY/output/github-snake.svg" />
-</picture>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/YINDEEINDY/fixflow">FixFlow</a></h4>
+      <p>Maintenance request management system for educational institutions. Built with React, TypeScript, and a Node backend.</p>
+      <sub>TypeScript · React · Node.js · <a href="https://fixflow-alpha.vercel.app">Live</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/YINDEEINDY/KodLaewLong">KodLaewLong</a></h4>
+      <p>Web application focused on a clean, fast user experience. Deployed on Vercel.</p>
+      <sub>TypeScript · React · <a href="https://kodlaewlong.vercel.app">Live</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/YINDEEINDY/Seoul-Stay">Seoul-Stay</a></h4>
+      <p>Stay-booking platform built with C# and .NET. Demonstrates clean layered architecture and data modeling.</p>
+      <sub>C# · .NET</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/YINDEEINDY/chatbot-builder">Chatbot Builder</a></h4>
+      <p>No-code interface for composing AI chatbots. Vercel-hosted TypeScript app.</p>
+      <sub>TypeScript · AI · <a href="https://chatbot-builder-nine-sable.vercel.app">Live</a></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Top Languages
+### Tech Stack
 
-<div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YINDEEINDY&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YINDEEINDY&bg_color=0d1117&color=00d4ff&line=a855f7&point=ffffff&area=true&hide_border=true"/>
-</div>
+**Languages**&nbsp;&nbsp;TypeScript · Python · C# · JavaScript  
+**Frontend**&nbsp;&nbsp;&nbsp;React · Next.js · Tailwind CSS · Vite  
+**Backend**&nbsp;&nbsp;&nbsp;&nbsp;Node.js · .NET · Express  
+**Data**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MongoDB · PostgreSQL  
+**DevOps**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker · Azure · Git
 
 ---
 
-<div align="center">
+### GitHub
 
-**💼 Open for Opportunities**
+<a href="https://github.com/YINDEEINDY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&card_width=480" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=YINDEEINDY&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff&card_width=480" />
+  </picture>
+</a>
 
-<a href="https://portfolio-yindees-projects.vercel.app"><img src="https://img.shields.io/badge/View_Portfolio-00D4FF?style=for-the-badge"/></a>
-
-</div>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<sub>Currently focused on AI integration and cloud architecture · Open to opportunities</sub>
